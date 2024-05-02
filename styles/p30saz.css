@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Shabnam-FD";
   src: local("Shabnam-FD"), local("Shabnam"),
-    url(/p30saz/fonts/Shabnam-FD.woff2) format("woff2");
+    url(/fonts/Shabnam-FD.woff2) format("woff2");
 }
 
 * {
